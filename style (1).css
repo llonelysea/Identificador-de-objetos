@@ -1,0 +1,41 @@
+.heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+.headingDiv
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    float: none;
+  }
+.headingDiv2
+  {
+    font-size: 18px ;
+  }
+.resultToTag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+
+.copyRightFooter{
+  position: fixed;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(147, 127, 180);
+  text-align: center;
+}
+
+canvas{
+  border: 5px;
+  border-radius: 40;
+}
+
+#body {
+  text-align: center;
+}
